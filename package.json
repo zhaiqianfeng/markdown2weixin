@@ -1,0 +1,23 @@
+{
+  "name": "markdown2weixin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaiqianfeng/markdown2weixin.git"
+  },
+  "keywords": [],
+  "author": "zhaiqianfeng <zhaiqianfeng@163.com> (zhaiqianfeng.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaiqianfeng/markdown2weixin/issues"
+  },
+  "homepage": "https://github.com/zhaiqianfeng/markdown2weixin#readme",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
+}
