@@ -6,4 +6,4 @@ resoures/tmp.md　是模板，主要提供图文的头部和尾部这些不变�
 ```
 node app.js md文件 输出的html文件
 ```
-![微信公众号](qrcode.jpg)
+![微信公众号](resources/qrcode.jpg)
